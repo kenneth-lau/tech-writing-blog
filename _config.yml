@@ -5,8 +5,8 @@ locale: en_US
 description: A look into the world of technical writing and possibly other stuff
 logo: quotes-logo.png
 search: true
-#url: https://kenneth-lau.github.io/tech-writing-blog
-url: http://localhost:4000
+url: https://kenneth-lau.github.io/tech-writing-blog
+#url: http://localhost:4000
 
 # Jekyll configuration
 
