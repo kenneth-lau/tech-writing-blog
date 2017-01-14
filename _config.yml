@@ -1,10 +1,11 @@
 # Site wide configuration
 
-title: Write Less. For More.
+title: Why Write At All
 locale: en_US
-description: Blog on all things technical writing and maybe other random stuff
-logo: site-logo.png
+description: A look into the world technical writing and possibly other stuff
+logo: web-logo.png
 search: true
+# url: https://kenneth-lau.github.io/tech-writing-blog
 url: http://localhost:4000
 
 # Jekyll configuration
