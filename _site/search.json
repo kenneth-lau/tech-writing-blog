@@ -2,6 +2,22 @@
 
   
     {
+      "title"			: "Tips for working on Mac",
+      "link"			: "https://kenneth-lau.github.io/tech-writing-blog/articles/tips/",
+      "excerpt"		: "Example and code for using link posts."
+    }
+  
+
+  
+    ,{
+      "title"			: "My working environment",
+      "link"			: "https://kenneth-lau.github.io/tech-writing-blog/articles/development-environment/",
+      "excerpt"		: "Examples and code for displaying images in posts."
+    }
+  
+
+  
+    ,{
       "title"			: "Using icons as fonts",
       "link"			: "https://kenneth-lau.github.io/tech-writing-blog/blog/icons-as-fonts/",
       "excerpt"		: "This a look at how to use icons as a font on a website."
