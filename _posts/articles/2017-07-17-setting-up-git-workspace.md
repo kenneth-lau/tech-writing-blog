@@ -71,6 +71,8 @@ Add the following to the `.gitconfig` file found in your home directory.
     cmd = code --wait --diff $LOCAL $REMOTE
 ```
 
+## Git configuration
 
+## 
 
 
