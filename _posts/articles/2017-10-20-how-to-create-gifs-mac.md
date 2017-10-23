@@ -9,6 +9,8 @@ share: true
 modified: 2017-10-20
 ---
 
+<!-- Draft -->
+
 This describes how to create GIF files of a screen recording using [FFmpeg](https://www.ffmpeg.org/).
 
 ## Install FFmpeg using Homebrew
