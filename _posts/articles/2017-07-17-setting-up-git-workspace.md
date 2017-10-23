@@ -70,7 +70,3 @@ Add the following to the `.gitconfig` file found in your home directory.
 [difftool "default-difftool"]
     cmd = code --wait --diff $LOCAL $REMOTE
 ```
-
-
-
-
