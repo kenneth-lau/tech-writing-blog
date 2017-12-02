@@ -69,10 +69,12 @@ Add the following to the `.gitconfig` file found in your home directory.
     tool = default-difftool
 [difftool "default-difftool"]
     cmd = code --wait --diff $LOCAL $REMOTE
+<<<<<<< HEAD
+```
+=======
 ```
 
-## Git configuration
-
-## 
 
 
+
+>>>>>>> parent of 0566015... add docs
