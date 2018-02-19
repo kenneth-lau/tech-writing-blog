@@ -16,7 +16,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -44,7 +44,7 @@ owner:
   twitter: KennyLau19
   facebook: #kenny.lau.10004
   github: kenneth-lau
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: #https://stackoverflow.com/users/7078066/kenneth-lau
   linkedin: kenneth-lau19
   instagram: #username
   flickr: #username
@@ -53,7 +53,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-110478080-1
     verify:
     ad-client:
     ad-slot:
