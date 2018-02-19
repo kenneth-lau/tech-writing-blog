@@ -36,6 +36,9 @@ A list of recommended books for technical writers.
 - [Universal Principles of Design, Revised and Updated](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/)
 - [The Non-Designer’s Design Book, Fourth Edition](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151/)
 
+## Diagramming
+- [UML Requirements Modeling For Business Analysts](https://www.amazon.com/UML-Requirements-Modeling-Business-Analysts/dp/193550424X)
+
 ## Coding
 - [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques-ebook/dp/B0064CZ1XE/)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/)
@@ -77,4 +80,6 @@ A list of recommended books for technical writers.
 - [Secret Sauce: How to Pack Your Messages with Persuasive Punch](https://www.amazon.com/Secret-Sauce-Messages-Persuasive-Punch-ebook/dp/B01HUER10K/)
 - [Getting Started with OAuth 2.0 ](https://www.amazon.com/Getting-Started-OAuth-Authorization-Authentication/dp/1449311601/)
 - [REST API Design Rulebook](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508/)
+- [An Introduction to Information Design](https://www.amazon.com/Introduction-Information-Design-Kathryn-Coates/dp/1780673388)
 - [What is Code? (Bloomberg)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- [Information Design Workbook: Graphic approaches, solutions, and inspiration + 30 case studies](https://www.amazon.com/Information-Design-Workbook-approaches-inspiration/dp/1592536271)
